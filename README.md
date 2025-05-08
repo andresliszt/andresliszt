@@ -1,8 +1,4 @@
 # Hi there, I'm Andrés Sandoval 👋
-
-<!-- Profile and visitor badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=andresliszt&color=blue)](https://github.com/andresliszt)
-
 <!-- Social links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asandovalabarca/)
 
