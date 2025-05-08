@@ -24,12 +24,6 @@ I’m a **Mathematical Engineer** passionate about multi-objective optimization,
 - **Languages:** Rust, Python, SQL
 - **DevOps & CI/CD:** Docker, GitHub Actions, Terraform, AWS, Azure
 
-## 📈 GitHub Stats
-
-![Andrés's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresliszt&show_icons=true&theme=vue)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andresliszt&layout=compact&theme=vue)
-
 ---
 
 <!--
